@@ -19,6 +19,9 @@ export const metadata: Metadata = {
   title: 'Ankitha Reddy — Developer & IT Undergraduate',
   description:
     'Portfolio of Ankitha Reddy, an aspiring developer passionate about coding, web development, and emerging technologies.',
+  verification: {
+    google: "n0G340tx1ffiTQcD04zyJGRgYpxohiWK9WcWBtO1HNM",
+  },
   generator: 'v0.app',
   icons: {
     icon: [
